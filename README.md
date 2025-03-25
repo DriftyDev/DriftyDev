@@ -26,4 +26,4 @@
 
 ### Contact
 - [Website](https://drifty.es)
-- [Discord](https:/discord.com) (drifty.dev)
+- [Discord](discord://discord.com/users/637938917244534815) (drifty.dev)
