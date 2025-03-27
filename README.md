@@ -10,7 +10,7 @@
 ![Drifty's Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DriftyDev&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 -->
 - 🔭 Check out my [projects](https://drifty.es)!
-- 📖 I’m currently mastering javascript & other languages.
+- 📖 I’m currently mastering typescript/javascript & other languages.
 - ⚡ Currently studying
 - 🌍 Spain
 
