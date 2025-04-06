@@ -22,7 +22,7 @@
 
 ### Databases
 
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="max-width: 100%;" /> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" style="max-width: 100%;" /> <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" style="max-width: 100%;" />
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" style="max-width: 100%;" /> <img src="https://img.shields.io/badge/PostgreSQL-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" style="max-width: 100%;" /> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="max-width: 100%;" /> <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" style="max-width: 100%;" />
 
 ### Contact
 - [Website](https://drifty.es)
